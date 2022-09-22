@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzbuzzTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-09-22T15:17:09" hostname="LUK-5CG01160SZ" time="0.03">
+  <properties/>
+  <testcase name="createFizzbuzzArray_callCreateFizzBuzzMethod_return5thElementAsBuzz()" classname="FizzbuzzTest" time="0.018"/>
+  <testcase name="createFizzbuzzArray_callCreateFizzbuzzMethod_return9thElementIsFizz()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="createFizzBuzzArray_callCreateFizzBuzzMethod_return15thElementAsFizzBuzz()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="createFizzbuzzArray_callCreateFizzBuzzMethod_return100ElementsInArray()" classname="FizzbuzzTest" time="0.002"/>
+  <testcase name="createFizzbuzzArray_callCreateFizzbuzzMethod_return3rdElementIsFizz()" classname="FizzbuzzTest" time="0.001"/>
+  <testcase name="createFizzbuzzArray_callCreateFizzBuzzMethod_returnArrayThatMatchesThePatternFizzBuzzFizzBuzz()" classname="FizzbuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
